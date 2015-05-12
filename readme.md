@@ -65,5 +65,6 @@ If you need help at any time
 
 Running `mvn --help`  will display the maven help menu
 
+Download the windows app :-)
 
 The emojis for git are amazing! :trollface:
