@@ -7,8 +7,8 @@ To create the files in this git repo we've already run `mvn archetype:generate` 
 
     mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
-Now, to print "Hello World!", type either...
-
+Now, to print "Hello World!", type one of the following below: 
+...
     cd my-app
     mvn compile
     java -cp target/classes com.mycompany.app.App
@@ -65,8 +65,14 @@ If you need help at any time
 
 Running `mvn --help`  will display the maven help menu
 
+<<<<<<< HEAD
 Raymond Self
 
 A helpful application for windows is gitHub windows you can download it here 
 https://windows.github.com/
 
+=======
+Download the windows app :-)
+
+The emojis for git are amazing! :trollface:
+>>>>>>> origin
